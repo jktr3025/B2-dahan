@@ -1,0 +1,46 @@
+이미지 슬라이드 텍스트
+
+이미지 1 : 대한 동남아 투어
+이미지 2 : 대한 유럽 투어
+이미지 3 : 대한 패키지 투어
+
+-----------------
+공지사항
+------------------------
+BC카드 시스템 작업으로 인한 서비스 이용 제한 안내
+2019-06-28
+
+허니문 예약자 대상 경품 추첨 이벤트
+2019-06-22
+
+이용약관 개정에 따른 사전 안내
+2019-06-16
+
+개인정보 처리방침 개정관련 사전안내
+2019-06-10
+
+대한투어 국내숙박 앱 서비스 종료 안내
+2019-06-04
+
+
+---------------
+Copyright by 대한투어, All right reserved.
+
+----------------
+패밀리사이트
+민국투어
+만세투어
+일국투어
+-------------------
+
+
+---------------------
+팝업창 
+-------------------
+팝업 제목
+BC카드 시스템 작업으로 인한 서비스 이용 제한 안내
+
+-----------------
+팝업내용
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa iure consequuntur praesentium dolor quo id vitae at corporis optio autem accusantium voluptates odit nemo ullam esse iste porro, ratione minima?
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde aliquid error enim obcaecati nesciunt, aliquam reiciendis, neque commodi ratione fugiat dignissimos, doloremque alias saepe ea consectetur minus pariatur. Voluptates, saepe.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non voluptatibus aperiam deleniti voluptate iure, enim adipisci possimus veritatis eius perferendis ducimus repellat nobis magnam, provident asperiores. Doloremque, unde cupiditate sed.
